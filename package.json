@@ -6,5 +6,8 @@
   },
   "scripts": {
     "dev": "vite"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5"
   }
 }
